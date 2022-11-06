@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+F:\FWG\Data Structures & Algorithms\Code\Stack and Queue\.metadata\.plugins\org.eclipse.jdt.core
+672256547.index
+985927672.index
